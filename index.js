@@ -98,3 +98,11 @@
 // array1.splice(1, 0, 'a', 'b');
 // array1.splice(6, 0, 'c');
 // array1.splice(8, 0, 'e');
+
+//13. Дан массив [3, 4, 1, 2, 7]. Отсортируйте его.
+// /**
+//  *
+//  * @type {number[]}
+//  */
+// const array = [3, 4, 1, 2, 7];
+// array.sort();
