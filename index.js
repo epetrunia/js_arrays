@@ -106,3 +106,11 @@
 //  */
 // const array = [3, 4, 1, 2, 7];
 // array.sort();
+
+// 14.  Дан объект {js:'test', jq: 'hello', css: 'world'}. Получите массив его ключей.
+/**
+ *
+ * @type {{css: string, jq: string, js: string}}
+ */
+const obj = {js: 'test', jq: 'hello', css: 'world'};
+alert(Object.keys(obj));
