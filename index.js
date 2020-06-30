@@ -32,3 +32,19 @@
 // const array = [1, 2, 3];
 // array.unshift(4, 5, 6);
 // alert(array);
+
+// 5.  Дан массив ['js', 'css', 'jq']. Выведите на экран первый элемент.
+// /**
+//  *
+//  * @type {string[]}
+//  */
+// const array = ['js', 'css', 'jq'];
+// alert(array.shift());
+
+// 6.  Дан массив ['js', 'css', 'jq']. Выведите на экран последний элемент.
+// /**
+//  *
+//  * @type {string[]}
+//  */
+// const array = ['js', 'css', 'jq'];
+// alert(array.pop());
